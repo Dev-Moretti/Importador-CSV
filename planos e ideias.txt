@@ -1,0 +1,12 @@
+---- PLANEJAMENTO ---
+Cabeçalho {
+-> conexão do banco com botão de validação
+-> escolha do arquivo csv e botão para recarregar
+}
+
+Menu dos dados {
+-> row com nome da coluna destino no banco que não pode mudar o nome, somente escolha
+-> row com o nome da coluna no arquivo csv
+-> colunas com os dados do arquivo csv
+-> essa box tem que poder rolar para direita/esquerda - a cima/abaixo
+}
