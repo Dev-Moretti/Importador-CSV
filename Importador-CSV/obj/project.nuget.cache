@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7EVhyNljD3qAiM3galOj48xlyL65BE8gEOoCXeuPFrw0Us8Vu4UxTOixz0RJ1A6kXn7lsiWmI/j76bTzT44+Xw==",
+  "dgSpecHash": "3y2oVcPNL3R6BNH0Xun3mNPD+5eDer0RZOi0nz3vB+84rydMsRaOQvfwBHSMFlvSu2t9AYucbA42rNjzldywXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\Source\\Repos\\Importador-CSV\\Importador-CSV\\Importador-CSV.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\Importador-CSV\\Importador-CSV\\Importador-CSV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

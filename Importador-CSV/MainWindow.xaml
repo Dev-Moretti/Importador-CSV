@@ -33,7 +33,7 @@
                        Nome do Banco:
                 </Label>
                 <TextBox Name="TB_BancoNome"
-                         Text="{Binding Path=TB_BancoNome, Mode=OneWay, Upda}"
+                         Text="{Binding Path=TB_BancoNome, Mode=TwoWay}"
                          Height="20" Width="120"
                          Background="#FFC3C3C3"/>
             </StackPanel>
@@ -49,6 +49,7 @@
                        Senha do Banco:
                 </Label>
                 <TextBox Name="TB_BancoSenha"
+                         Text="{Binding Path=TB_BancoSenha, Mode=TwoWay}"
                          Height="20" Width="120"
                          Background="#FFC3C3C3"/>
             </StackPanel>
