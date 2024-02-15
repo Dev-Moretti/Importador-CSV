@@ -1933,11 +1933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Source\\Repos\\Importador-CSV\\Importador-CSV\\Importador-CSV.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\Importador-CSV\\Importador-CSV\\Importador-CSV.csproj",
       "projectName": "Importador-CSV",
-      "projectPath": "C:\\Users\\Pichau\\Source\\Repos\\Importador-CSV\\Importador-CSV\\Importador-CSV.csproj",
+      "projectPath": "C:\\Users\\Pichau\\source\\repos\\Importador-CSV\\Importador-CSV\\Importador-CSV.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Source\\Repos\\Importador-CSV\\Importador-CSV\\obj\\",
+      "outputPath": "C:\\Users\\Pichau\\source\\repos\\Importador-CSV\\Importador-CSV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1967,6 +1967,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2001,7 +2006,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
