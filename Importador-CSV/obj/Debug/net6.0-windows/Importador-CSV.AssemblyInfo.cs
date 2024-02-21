@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Importador-CSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c9b0db3102d5807af7b3e2a725361b870a81864")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d047a49a480423cd750aa801a0dc4bfb89cb6c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Importador-CSV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Importador-CSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
